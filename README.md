@@ -1,4 +1,4 @@
-# Research-P2-22121762
+# This is Edmond's Master research project 
 This Github repository is for 22121762 Research Project P2
 
 
